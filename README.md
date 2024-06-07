@@ -5,7 +5,7 @@
 1. **Clonar el repositorio:**
 
 ```
-git clone https://github.com/tu-usuario/restaurant-reservation-db.git
+git clone https://github.com/SantiagoRicardo/restaurant-reservation-db.git
 ```
 
 ## Conectarse a la base de datos local en Workbench
